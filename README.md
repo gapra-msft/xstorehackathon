@@ -45,12 +45,16 @@ Welcome! We all have been busy at work trying to make the best experiences for o
 
 ## Rules
 
+* It can be a team or a individual event, *you choose*.
+* If you are doing your own challenge, add a README.
+* Visual Studio subscription give everyone an Azure subscription to play with. Use those credits for testing (my.visualstudio.com)
 * Fork this repo and develop at your comfort
-* Submit PR to the main branch of this repo
-* PR deadline 12/17
+* Submit PR to the main branch of this repo (IM to the meeting chat with your PR)
+* Name the project appropriately if picking from the above list of challenges
+* PR deadline February 6th 2021
 * We will provide PR feedback and assign points. Max points listed in table
-* Winner is the person with maximum point 
-* One random winner too
+* One winner is the person with maximum point.
+* Another winner will be DevEx team voted best project.
 
 ## SDK location
 
